@@ -27,3 +27,9 @@ Structure Hat For Blind
 
 ![st2](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/f6530011-071e-44c1-8169-51438a4c5b0c)
 
+GPS Dashboard
+
+![gpsdashboard](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/d13bab1f-88fe-43d5-9bb5-36ddc74856b1)
+
+![gps2](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/1139a931-2511-45c4-ac6d-d2446c094aa7)
+
