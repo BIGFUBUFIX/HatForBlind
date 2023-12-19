@@ -10,3 +10,20 @@ All 3 will work the same but are not related. In the second part, GPS will send 
 longitude via the server to the tracked topic in Node-Red and the value will be inserted into
 The map will be automatically displayed on the dashboard and in the last section there will be a vibration sensor.
 Sending notifications to the specified Line Token.
+
+![pichat](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/c474aec2-441c-4d54-b239-301772589704)
+
+Flowchart
+
+![flowcharthatforblind](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/96bd5832-f291-4948-b03c-916d7ec14007)
+
+Circuit Hat For Blind
+
+![circuithatforblind](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/750c561d-2dc1-4f9b-98ef-7c7b3b3cb69e)
+
+Structure Hat For Blind
+
+![st1](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/a1b166bd-800a-43ca-bfd7-816c52c0fd4a)
+
+![st2](https://github.com/BIGFUBUFIX/HatForBlind/assets/90246398/f6530011-071e-44c1-8169-51438a4c5b0c)
+
